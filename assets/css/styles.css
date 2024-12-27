@@ -406,6 +406,3 @@ header::before {
     transform: rotateZ(10deg);
   }
 
-logo {
-  align-items: center;
-}
